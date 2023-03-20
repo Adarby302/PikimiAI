@@ -51,6 +51,4 @@ def cance_finetune(ftid):
 #finetune_model(resp['id'], 'pikimi_ver1_1', 'davinci')
 
 #finetune_list()
-finetune_get('ft-IEWw197OzS0sPcEPp4gqlZnv')
-
 
