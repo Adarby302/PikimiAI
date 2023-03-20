@@ -2,7 +2,7 @@ import requests
 import openai
 from pprint import pprint
 
-openai.api_key = "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"
+openai.api_key = "API-KEY HERE"
 
 
 def file_upload(filename, purpose='fine-tune'):
