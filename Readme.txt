@@ -28,4 +28,11 @@ Text to speech with ability to speech in a multitude of langauges.
 Search functionality.
 GUI.
 
+
+Requirements:
+OpenAI API(python). 
+VoiceVox engine.
+
+Devlopment done in Pycharm.
+
 Thanks for reading!
