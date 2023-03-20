@@ -11,7 +11,8 @@ Ex of such a scenario:
 Imagine a detailed scenario where Artificial Intelligence (Name) is located in America to have detailed conversations with people. (Personality of A.I).(More traits).Mood<Parameter>. If Conditional. A person named <Name>: "<Param 1>". Goal of your A.I
 
 It takes roughly 1,000 examples of data to have a somewhat accurate model to your preferences.
-For my A.I we have 5 variables, within those variables 5 choices. Each variable within choices was looped >50 times to create results >1000.
+
+For my A.I we have 5 variables, within those variables 5 choices. Each variable within choices was looped >=50 times to create results >=1000.
 (Training.py)
 
 (Prepare.py) prepares the data to be uploaded. Open-AI takes data in the form of JSON. The json needs to include your prompt and the results as it will 
